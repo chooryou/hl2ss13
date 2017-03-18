@@ -1,4 +1,4 @@
-# Tau Ceti Classic
+# Half-station 2
 [![Slack](http://slack.tauceti.ru/badge.svg)](http://slack.tauceti.ru/)
 [![tauceti.ru](https://img.shields.io/badge/site-tauceti.ru-blue.svg)](http://tauceti.ru/)
 
